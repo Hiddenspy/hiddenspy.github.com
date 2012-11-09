@@ -23,6 +23,11 @@ h3{
 
 a, a:link, a:hover, a:active, a:visited {
 	text-decoration:none;
+	color: #686767;
+}
+
+a:hover{
+	text-decoration:underline;
 }
 
 .logo {
